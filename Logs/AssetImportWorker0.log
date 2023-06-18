@@ -1211,3 +1211,11 @@ Total: 2.186833 ms (FindLiveObjects: 0.240958 ms CreateObjectMapping: 0.033083 m
 
 AssetImportParameters requested are different than current active one (requested -> active):
   requireTextureImportCompression: false -> true
+========================================================================
+Received Import Request.
+  Time since last request: 989.881398 seconds.
+  path: Assets/Scenes/Example.unity
+  artifactKey: Guid(10f0a1c1092664947b9163ff7af1c707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Example.unity using Guid(10f0a1c1092664947b9163ff7af1c707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe6b9ff49ad79953e290b484de3f71e') in 0.042073 seconds
+  Import took 0.050979 seconds .
+
